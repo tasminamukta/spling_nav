@@ -1,0 +1,31 @@
+.bgc{
+	background-color: pink;
+	width:80px;
+	height:100px;
+}
+
+.header{
+     height:100px;
+	background-color: red;
+}
+.wrapper{
+    border:1px solid black;
+	
+}
+.contact{
+	height:100px;
+	background-color: yellow;
+	width:60%;
+	float:left;
+}
+.blog{
+	height:100px;
+	background-color:blue;
+	width:40%;
+	float:right;
+}
+.footer{
+	height:100px;
+	background-color:red;
+  clear:both;
+}
